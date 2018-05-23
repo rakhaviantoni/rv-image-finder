@@ -1,3 +1,10 @@
+# rv-image-finder
+
+React & Material-UI app to find images using Pixabay and Unsplash API.
+>Note: Register your API key at :
+>- Pixabay : https://pixabay.com/en/service/about/api/
+>- Unsplash : https://unsplash.com/developers
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2442,4 +2449,3 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-# rv-image-finder
